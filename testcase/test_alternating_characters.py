@@ -9,7 +9,7 @@ def alternatingCharacters(s):
         i += 1
     return count
 
-# Test cases
+# Test cases 1-5
 test_cases = [
     ("abcdef", 0),
     ("aaaaa", 4),
